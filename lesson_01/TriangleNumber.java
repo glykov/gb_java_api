@@ -12,6 +12,21 @@ public class TriangleNumber {
         return triNum;
     }
 
+    public static calcFactorial(int n) {
+        int fact = 1;
+        for (int i = 1; i <= n; i++) {
+            fact *= n;
+        }
+        return fact;
+    }
+
+    public static calcFactorialRec(int n) {
+        if (n == 0) {
+            return 1;
+        }
+        return n * calcFactorialRec(n - 1);
+    }
+
     public static int calcTriNumRec(int n) {
         if (n == 0) {
             return 0;
