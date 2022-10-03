@@ -1,0 +1,18 @@
+Oct 02, 2022 12:55:17 AM LoggingCalc main
+INFO: Entered expression: 2 + 2
+Oct 02, 2022 12:55:17 AM LoggingCalc main
+INFO: The result is 4.0
+Oct 02, 2022 12:55:20 AM LoggingCalc main
+INFO: Entered expression: 3 * 3
+Oct 02, 2022 12:55:20 AM LoggingCalc main
+INFO: The result is 9.0
+Oct 02, 2022 12:55:31 AM LoggingCalc main
+INFO: Entered expression: 20 / 2
+Oct 02, 2022 12:55:31 AM LoggingCalc main
+INFO: The result is 10.0
+Oct 02, 2022 12:55:39 AM LoggingCalc main
+INFO: Entered expression: 7.5 - 2.5
+Oct 02, 2022 12:55:39 AM LoggingCalc main
+INFO: The result is 5.0
+Oct 02, 2022 12:55:39 AM LoggingCalc main
+WARNING: You leaving claculator! Shame on you
